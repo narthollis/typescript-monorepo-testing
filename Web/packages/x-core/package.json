@@ -1,0 +1,10 @@
+{
+  "name": "x-core",
+  "version": "1.0.0",
+  "description": "X Core",
+  "main": "src/index.ts",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.9.2"
+  }
+}

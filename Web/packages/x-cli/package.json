@@ -1,0 +1,14 @@
+{
+  "name": "x-cli",
+  "version": "1.0.0",
+  "description": "X Cli",
+  "main": "src/index.ts",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^10.3.3",
+    "typescript": "^2.9.2"
+  },
+  "dependencies": {
+    "x-core": "^1.0.0"
+  }
+}
